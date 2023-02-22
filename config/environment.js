@@ -17,6 +17,9 @@ module.exports = function(environment) {
       defaultLocale: 'en'
     }
   };
+  
+  aws_access_key_id =iozeuyedncinciodhizuixnauinoxuazioncxuioazeuniocanuiomuxioaze
+  aws_secret_access_key = kmljuzxnizuianuemoixueia
 
   if (environment === 'development') {
     // ENV.APP.LOG_RESOLVER = true;
